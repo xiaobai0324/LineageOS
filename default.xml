@@ -48,6 +48,7 @@
   <project path="frameworks/av" remote="sdhz152" revision="cm-14.1" name="sdhz152/android_frameworks_av" groups="pdk" />
   <project path="vendor/cm" remote="sdhz152" revision="cm-14.1" name="sdhz152/android_vendor_cm" />
   <project path="external/suda/SudaSDKs" remote="sdhz152" revision="cm-14.1" name="sdhz151/android_external_suda_SudaSDKs-1" />
+  <project path="vendor/cmsdk" remote="sdhz152" revision="cm-14.1" name="sdhz152/cm_platform_sdk" />
   <!-- AOSP Projects -->
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" remote="aosp" />
   <project path="build/kati" name="LineageOS/android_build_kati" groups="pdk,tradefed" />
