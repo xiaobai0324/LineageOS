@@ -48,7 +48,7 @@ Creating directory for where the sdhz150 repo will be stored and synced
 
 Initializing the sdhz150 repo and downloading the manifest
 
-    $ repo init -u git://ggithub.com/sdhz152/android.git -b cm-14.1
+    $ repo init -u git://github.com/sdhz152/android.git -b cm-14.1
     
 Syncing the source
 
