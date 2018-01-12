@@ -35,7 +35,7 @@
   <project path="packages/apps/Stk" remote="sdhz152" revision="cm-14.1" name="sdhz152/android_packages_apps_Stk" groups="apps_stk,pdk-fs" />
   <project path="packages/apps/Dialer" remote="sdhz152" revision="cm-14.1" name="sdhz152/android_packages_apps_Dialer" groups="pdk-fs" />
   <project path="packages/apps/Calendar" remote="sdhz152" revision="cm-14.1-Backup" name="sdhz152/android_packages_apps_Calendar" groups="pdk-fs" />
-  <project path="packages/providers/PhoneLocationProvider" remote="sdhz152" revision="cm-13.0" name="sdhz151/android_packages_provider_PhoneLocationProvider" />
+  <project path="packages/providers/PhoneLocationProvider" remote="sdhz152" revision="cm-14.1" name="sdhz152/android_packages_provider_PhoneLocationProvider" />
   <project path="packages/providers/ContactsProvider" remote="sdhz152" revision="cm-14.1" name="sdhz152/android_packages_providers_ContactsProvider" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/PhoneCommon" remote="sdhz152" revision="cm-14.1" name="sdhz152/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Messaging" remote="sdhz152" revision="cm-14.1" name="sdhz152/android_packages_apps_Messaging" groups="pdk-fs" />
